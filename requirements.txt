@@ -4,3 +4,4 @@ pandas-datareader==0.10.0
 matplotlib==3.7.2
 streamlit
 yfinance
+keras==2.13.1
