@@ -5,3 +5,4 @@ matplotlib==3.7.2
 streamlit
 yfinance
 keras==2.13.1
+tensorflow==2.13.0
